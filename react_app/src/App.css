@@ -1,0 +1,31 @@
+.App_block {
+  width: 600px;
+  margin: 40px auto;
+}
+
+.App_form {
+  display: flex; 
+  justify-content: space-around;
+  align-items: center;
+}
+
+.App_input {
+  height: 30px;
+  width: 200px;
+  padding: 5px 10px;
+}
+
+.App_btn_post {
+  background-color: rgb(27, 42, 173);
+  color: rgb(214, 218, 221);
+  padding: 13px 20px;
+  font-size: 17px;
+}
+
+.App_btn_get {
+  background-color: rgb(173, 27, 83);
+  color: rgb(228, 217, 222);
+  padding: 13px 20px;
+  font-size: 17px;
+  margin: 30px 0 0 200px;
+}
